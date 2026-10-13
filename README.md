@@ -25,7 +25,7 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 
  *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
  
- ![image](logistic analysis.jpeg)
+ ![image](logistic analysis dashboard.jpeg)
 
 **Key focus areas:**
 - Revenue and operating performance
@@ -35,10 +35,9 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
   
 
 **2 Loan Portfolio Analysis**
-
 *Analyzed a loan portfolio to understand lending activity, repayment performance, default risk, borrower behavior, and portfolio trends.*
 
-![image](logistic analysis.jpeg)
+![image](loan portfolio analysis dashboard.jpeg)
 
 **Key focus areas:**
 - Portfolio performance
