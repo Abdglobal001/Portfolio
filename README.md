@@ -25,7 +25,7 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 
  *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
  
- ![image](logistic analysis dashboard.jpeg)
+ ![image](ABD Logistics.jpg.jpg)
 
 **Key focus areas:**
 - Revenue and operating performance
