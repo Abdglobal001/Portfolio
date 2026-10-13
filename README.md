@@ -58,14 +58,22 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 
 ## CONTACT DETAILS
 Let's connect and see how we can make a difference together!
+
 ---
+
 📨    **bakardolamide05@gmail.com**
 ---
+
 ☎️    **+2347069123125**
+
 ---
+
 📍     **Lagos,Nigeria**
+
 ---
+
 🌐    https://www.linkedin.com/in/kabir-bakare-b81335377 
+
 ---
 
 Thank you for visiting my portfolio!
