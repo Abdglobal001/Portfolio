@@ -4,10 +4,15 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 
 ## SKIllS
 ✅ Data Cleaning and Transformation.
+
 ✅ Exploratory Data Analysis (EDA).
+
 ✅ Data Analysis and Interpretation.
+
 ✅ Data Visualization and Storytelling.
+
 ✅ Business Insights and Data-Driven Decision-Making.
+
 ✅ Data Report and Presentation.
 
 
@@ -51,12 +56,16 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 - Turn complex datasets into clear, actionable business insights.
 - Connect with professionals and opportunities in data analytics.
 
-Let's Connect
-
-I'm open to connecting with data analysts, learning from experienced professionals, and exploring opportunities to grow in the data analytics field.
-
-LinkedIn: Add your LinkedIn profile URL here.
-
+## CONTACT DETAILS
+Let's connect and see how we can make a difference together!
+---
+📨    **bakardolamide05@gmail.com**
+---
+☎️    **+2347069123125**
+---
+📍     **Lagos,Nigeria**
+---
+🌐    https://www.linkedin.com/in/kabir-bakare-b81335377 
 ---
 
 Thank you for visiting my portfolio!
