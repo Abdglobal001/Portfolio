@@ -37,7 +37,7 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 **2 Loan Portfolio Analysis**
 *Analyzed a loan portfolio to understand lending activity, repayment performance, default risk, borrower behavior, and portfolio trends.*
 
-![image](loan portfolio analysis dashboard.jpeg)
+![image](Beccadot Lending Services.jpg)
 
 **Key focus areas:**
 - Portfolio performance
