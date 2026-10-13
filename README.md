@@ -62,6 +62,7 @@ Let's connect and see how we can make a difference together!
 ---
 
 📨    **bakardolamide05@gmail.com**
+
 ---
 
 ☎️    **+2347069123125**
