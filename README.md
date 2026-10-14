@@ -38,7 +38,7 @@ Hello! I'm Bakare O. Kabir, an Ichthyologist and Data Analyst with a passion for
 - Resource and capacity optimization
 - Operational performance and risk management
 
--  [Read More](https://lnkd.in/p/dYqEc_XF)
+[Read More](https://lnkd.in/p/dYqEc_XF)
   
 
 **2 Loan Portfolio Analysis**
