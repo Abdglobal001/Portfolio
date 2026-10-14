@@ -31,13 +31,14 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
  *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
  
  ![image](ABD Logistics.jpg.jpg)
- [Read More](https://lnkd.in/p/dYqEc_XF)
 
 **Key focus areas:**
 - Revenue and operating performance
 - Customer and revenue analysis
 - Resource and capacity optimization
 - Operational performance and risk management
+
+-  [Read More](https://lnkd.in/p/dYqEc_XF)
   
 
 **2 Loan Portfolio Analysis**
@@ -45,16 +46,6 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 *Analyzed a loan portfolio to understand lending activity, repayment performance, default risk, borrower behavior, and portfolio trends.*
 
 ![image](Beccadot Lending Services.jpg)
-[Read More]("C:\Users\dell\OneDrive\Desktop\Portfolio\PowerBi\Beccadot Lending Services\Beccadot Ventures Lending Services.pbix")
-
- 
-**3 Electronic Sales Performance Analysis**
-
- *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
- 
- ![image](Electronic Sales dashboard.png)
- [Read More](https://lnkd.in/p/d56BgyfG)
-
 
 
 **Key focus areas:**
@@ -62,6 +53,25 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
 - Loan repayment and default analysis
 - Borrower and product analysis
 - Risk identification and business recommendations
+
+[Read More]("C:\Users\dell\OneDrive\Desktop\Portfolio\PowerBi\Beccadot Lending Services\Beccadot Ventures Lending Services.pbix")
+
+ 
+**3 Electronic Sales Performance Analysis**
+
+ *Analyzed electronic sales performance to track revenue, profitability, costs and customer trends for data-driven business decisions.*
+ 
+ ![image](Electronic Sales dashboard.png)
+
+
+**Key focus areas:**
+- Revenue Analysis
+- Profit Optimization
+- Product Performance
+- Cost Tracking
+
+ [Read More](https://lnkd.in/p/d56BgyfG)
+ 
 
 ## 🎯 My Goals
 - Build practical data analytics projects using real-world business scenarios.
@@ -86,7 +96,7 @@ Let's connect and see how we can make a difference together!
 
 ---
 
-🌐    https://www.linkedin.com/in/kabir-bakare-b81335377 
+🌐   [Connect with me on Linkedin]( https://www.linkedin.com/in/kabir-bakare-b81335377 )
 
 ---
 
