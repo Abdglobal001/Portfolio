@@ -54,7 +54,7 @@ Hello! I'm Bakare O. Kabir, an Ichthyologist and Data Analyst with a passion for
 - Borrower and product analysis
 - Risk identification and business recommendations
 
-[Read More]("C:\Users\dell\OneDrive\Desktop\Portfolio\PowerBi\Beccadot Lending Services\Beccadot Ventures Lending Services.pbix")
+[Read More](https://lnkd.in/p/db5zSqP2)
 
  
 **3 Electronic Sales Performance Analysis**
