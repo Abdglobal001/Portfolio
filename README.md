@@ -31,6 +31,7 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
  *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
  
  ![image](ABD Logistics.jpg.jpg)
+ [Read More](https://lnkd.in/p/dYqEc_XF)
 
 **Key focus areas:**
 - Revenue and operating performance
@@ -40,9 +41,21 @@ Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion
   
 
 **2 Loan Portfolio Analysis**
+
 *Analyzed a loan portfolio to understand lending activity, repayment performance, default risk, borrower behavior, and portfolio trends.*
 
 ![image](Beccadot Lending Services.jpg)
+[Read More]("C:\Users\dell\OneDrive\Desktop\Portfolio\PowerBi\Beccadot Lending Services\Beccadot Ventures Lending Services.pbix")
+
+ 
+**3 Electronic Sales Performance Analysis**
+
+ *Analyzed logistics business performance through revenue, operating costs, truck utilization, delivery performance, and operational risk.*
+ 
+ ![image](ABD Logistics.jpg.jpg)
+ (Read More)(hdhhhhdhsjdv)
+
+
 
 **Key focus areas:**
 - Portfolio performance
