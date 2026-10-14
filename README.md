@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hello! I'm Bakare Kabir Olamide, a Data Analyst and Ichthyologist with a passion for transforming raw data into meaningful insights that support better business decisions.
+Hello! I'm Bakare O. Kabir, an Ichthyologist and Data Analyst with a passion for transforming raw data into meaningful insights that support better business decisions.
 
 ## SKIllS
 ✅ Data Cleaning and Transformation.
